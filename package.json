@@ -1,0 +1,19 @@
+{
+  "name": "gameoflife",
+  "version": "1.0.0",
+  "description": "Hello, and welcome to Jared's Game of Life. Thanks for taking a look. In the following I will break down the process of creating this game in beautiful, beautiful JavaScript. So, come along, the journey starts NOW!",
+  "main": "GameOfLife.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anung-Un-Rama/GameOfLife.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anung-Un-Rama/GameOfLife/issues"
+  },
+  "homepage": "https://github.com/Anung-Un-Rama/GameOfLife#readme"
+}
